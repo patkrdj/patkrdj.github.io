@@ -1,6 +1,6 @@
 ---
 title: "Java Framework 구현 목차"
-date: 2024-04-24
+date: 2026-04-24
 categories: 
   - framework
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Spring Boot 핵심기능"
-date: 2024-04-20
+date: 2026-04-20
 categories: 
   - spring boot
 tags:
