@@ -1,6 +1,6 @@
 ---
 title: "Reflection 기술을 통한 Proxy 구현"
-date: 2026-04-29
+date: 2026-05-13
 categories: 
   - framework
 tags:
